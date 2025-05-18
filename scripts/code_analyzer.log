@@ -1,0 +1,45 @@
+2025-05-17 18:13:20,748 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-05-17 18:18:06,513 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-05-17 18:23:57,639 - chromadb.telemetry.product.posthog - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-05-17 19:06:44,010 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-17 19:21:18,562 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-17 19:21:19,662 - root - INFO - Added batch 1 with 500 documents
+2025-05-17 19:27:08,940 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-17 19:27:09,985 - root - INFO - Added batch 2 with 500 documents
+2025-05-18 01:12:21,705 - root - INFO - documents count: 3139
+2025-05-18 01:13:33,649 - root - INFO - documents count: 2972
+2025-05-18 01:18:56,618 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-18 01:18:57,686 - root - INFO - Added batch 1 with 500 documents
+2025-05-18 01:23:57,603 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-18 01:23:58,571 - root - INFO - Added batch 2 with 500 documents
+2025-05-18 01:28:33,921 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-18 01:28:34,804 - root - INFO - Added batch 3 with 500 documents
+2025-05-18 01:33:28,170 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-18 01:33:29,125 - root - INFO - Added batch 4 with 500 documents
+2025-05-18 01:35:44,531 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-18 01:35:45,424 - root - INFO - Added batch 5 with 500 documents
+2025-05-18 01:35:56,723 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-18 01:35:57,651 - root - INFO - Added batch 6 with 472 documents
+2025-05-18 01:42:08,867 - root - INFO - documents count: 2972
+2025-05-18 01:47:30,025 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-18 01:47:31,059 - root - INFO - Added batch 1 with 500 documents
+2025-05-18 01:52:31,190 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-18 01:52:32,165 - root - INFO - Added batch 2 with 500 documents
+2025-05-18 01:57:14,038 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-18 01:57:14,915 - root - INFO - Added batch 3 with 500 documents
+2025-05-18 02:02:15,539 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-18 02:02:16,491 - root - INFO - Added batch 4 with 500 documents
+2025-05-18 02:04:34,879 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-18 02:04:35,782 - root - INFO - Added batch 5 with 500 documents
+2025-05-18 02:04:45,136 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-18 02:04:46,027 - root - INFO - Added batch 6 with 472 documents
+2025-05-18 02:04:46,028 - root - INFO - All documents added successfully
+2025-05-18 10:53:16,853 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-18 10:54:12,483 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-18 10:55:58,203 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-18 11:16:04,725 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-18 11:18:18,369 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-18 19:10:50,611 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-18 19:14:35,303 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-18 19:23:08,578 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
+2025-05-18 19:29:34,368 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/embed "HTTP/1.1 200 OK"
